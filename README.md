@@ -16,5 +16,5 @@
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/mood-music-player.git
-cd mood-music-player
+git clone https://github.com/your-username/music-player.git
+cd music-player
